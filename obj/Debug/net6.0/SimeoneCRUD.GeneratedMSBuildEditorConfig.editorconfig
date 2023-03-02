@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SimeoneCRUD
+build_property.RootNamespace = SimeoneCRUD
+build_property.ProjectDir = C:\Users\flavi\source\repos\SimeoneCRUD\SimeoneCRUD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\flavi\source\repos\SimeoneCRUD\SimeoneCRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Allievi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsaWV2aVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Allievi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsaWV2aVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Allievi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsaWV2aVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Allievi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsaWV2aVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Allievi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsaWV2aVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Lezioni/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV6aW9uaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Lezioni/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV6aW9uaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Lezioni/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV6aW9uaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Lezioni/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV6aW9uaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Lezioni/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV6aW9uaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Professori/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Professori/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Professori/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Professori/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Professori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/flavi/source/repos/SimeoneCRUD/SimeoneCRUD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qq60laqz76
